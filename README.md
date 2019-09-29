@@ -1,4 +1,4 @@
 # Tyler-Dials
 
 
-a little about myself
+a little about myself.
